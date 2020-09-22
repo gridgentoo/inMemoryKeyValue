@@ -1,3 +1,17 @@
+Исследование какие идеи для LowLatency взять у Goldman Sachs, Bloomberg, JP-Morgan
+Low-latency библиотека Java, которая была написана в банке Goldman Sachs. 
+
+https://docs.google.com/document/d/1tY1h1cyfj0ZyiQguMreORGN9yeXSIjr2I7scZd9rg-A/edit
+
+Высокочастотный трейдинг:  FIX API. Сфера финансовых приложений и трейдинга выдвигает особые требования к системам обработки данных: ультракороткие задержки, конкурентные обновления (в т.ч. из разных процессов), репликация высокочастотных обновлений.
+Как добиться от key-value хранилища медианной latency меньше 1 микросекунды?  
+
+https://www.youtube.com/watch?v=iTJpGa3W0xc
+
+Как добиться от key-value хранилища медианной latency меньше 1 микросекунды?  
+
+https://github.com/leventov/Koloboke
+
 # Koloboke
 
 A family of projects around collections in Java ([so far](
