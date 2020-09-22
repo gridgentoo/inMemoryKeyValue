@@ -1,4 +1,4 @@
-Исследование какие идеи для LowLatency взять у Goldman Sachs, Bloomberg, JP-Morgan
+Исследование, какие идеи для LowLatency взять у Goldman Sachs, Bloomberg, JP-Morgan
 Low-latency библиотека Java, которая была написана в банке Goldman Sachs. 
 
 https://docs.google.com/document/d/1tY1h1cyfj0ZyiQguMreORGN9yeXSIjr2I7scZd9rg-A/edit
@@ -8,7 +8,7 @@ https://docs.google.com/document/d/1tY1h1cyfj0ZyiQguMreORGN9yeXSIjr2I7scZd9rg-A/
 
 https://www.youtube.com/watch?v=iTJpGa3W0xc
 
-Как добиться от key-value хранилища медианной latency меньше 1 микросекунды?  
+Как добиться от key-value хранилища, медианной latency меньше 1 микросекунды?  
 
 https://github.com/leventov/Koloboke
 
